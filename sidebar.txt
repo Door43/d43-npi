@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[npi:home|Door43 (npi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-npi|d43-npi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-npi/archive/master.zip|d43-npi.zip]]
+
+**Recent Changes**
+{{changes>ns = npi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/npi|Ethnologue data]]
+
