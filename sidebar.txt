@@ -17,10 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/npi|Ethnologue data]]
 
-
 **Resources**
 
   * [[npi:obs|Open Bible Stories (npi)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:npi:obs:status}}
