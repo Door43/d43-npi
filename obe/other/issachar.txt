@@ -1,0 +1,22 @@
+====== Issachar ======
+
+===== Facts: =====
+
+Issachar was the ninth son of Jacob and Leah.
+
+  * The tribe of Issachar belongs with the tribe of Zebulun as Manasseh does with Ephraim.
+  * bullet
+
+(Translation suggestions: [[:npi:ta:translate:translatenames|How to Translate Names]])
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>issachar&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>draft exo01 ktlink}}
